@@ -22,7 +22,7 @@ Publications and Manuscripts
    Working paper.
 4. **Impact of Automated Vehicles on Traffic Assignment, Mode Split, and Parking Behavior** [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S136192092200030X)<br/>
    with Di Kang and Michael Levin<br/>
-   _Transportation research part D: transport and environment_, Volume 104, 2022, 103200.<br/>
+   _Transportation Research Part D: Transport and Environment_, Volume 104, 2022, 103200.<br/>
 
 
 Getting started
