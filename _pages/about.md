@@ -19,10 +19,10 @@ Publications and Manuscripts
    Under review at _Management Science_.
 3. **Machine Learning in Portfolio Optimization**<br/>
    with Daniel Mitchell and Kumar Muthuraman<br/>
-   Working paper
-4. Impact of Automated Vehicles on Traffic Assignment, Mode Split, and Parking Behavior. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S136192092200030X)<br/>
-   **Transportation research part D: transport and environment**, Volume 104, 2022, 103200.<br/>
-   with Di Kang and Michael Levin.
+   Working paper.
+4. **Impact of Automated Vehicles on Traffic Assignment, Mode Split, and Parking Behavior** [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S136192092200030X)<br/>
+   with Di Kang and Michael Levin<br/>
+   _Transportation research part D: transport and environment_, Volume 104, 2022, 103200.<br/>
 
 
 Getting started
