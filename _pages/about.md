@@ -24,3 +24,9 @@ Publications and Manuscripts
    with Di Kang and Michael Levin<br/>
    _Transportation Research Part D: Transport and Environment_, Volume 104, 2022, 103200.<br/>
 
+Teaching
+======
+**Teaching Assistant, McCombs School of Business, UT Austin**<br/>
+BA 287 Business Analytics and Decision Modeling (MBA core course), Spring & Fall 2021, Fall 2022, Spring 2023<br/>
+BAX 358 Optimization Methods and Decision Making, Spring 2023<br/>
+DS 235 Introduction to Decision Science, Fall 2020, Spring 2022
