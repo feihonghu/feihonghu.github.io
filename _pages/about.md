@@ -11,7 +11,7 @@ I am a final-year PhD candidate in the Department of Information, Risk, and Oper
 
 Publications
 ======
-1. Robust Financial Networks. [[pdf]](https://pubsonline.informs.org/doi/10.1287/opre.2022.0272)
+1. Robust Financial Networks. [[pdf]](https://pubsonline.informs.org/doi/10.1287/opre.2022.0272)< br / >
    Operations Research, 2024
    Feihong Hu, Daniel Mitchell, Stathis Tompaidis.
 
