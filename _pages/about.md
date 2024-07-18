@@ -14,6 +14,10 @@ Publications
 1. Robust Financial Networks. [[pdf]](https://pubsonline.informs.org/doi/10.1287/opre.2022.0272)<br/>
    **Operations Research**, 2024<br/>
    Feihong Hu, Daniel Mitchell, Stathis Tompaidis.
+2. Impact of Automated Vehicles on Traffic Assignment, Mode Split, and Parking Behavior. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S136192092200030X)<br/>
+   **Transportation research part D: transport and environment**, 2022<br/>
+   Di Kang, Feihong Hu, Michael Levin.
+
 
 Getting started
 ======
