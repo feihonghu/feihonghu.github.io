@@ -24,9 +24,9 @@ author:
   avatar           : "headshot_FeihongHu_github.png"
   name             : "Feihong Hu"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate at University of Texas at Austin"
+  bio              : "PhD candidate"
   location         : "Austin, TX"
-  employer         : "Red Brick University"
+  employer         : "McCombs School of Business, University of Texas at Austin"
   uri              : # URL
   email            : "Feihong.Hu@mccombs.utexas.edu" 
 
@@ -34,21 +34,19 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-7950-0934"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
