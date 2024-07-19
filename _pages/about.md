@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD candidate in the Department of Information, Risk, and Operations Manangement at the McCombs School of Business at the University of Texas at Austin, advised by [Prof. Stathis Tompaidis](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/efstathios-tompaidis/) and [Prof. Junyu Cao](https://junyucao.com/). I am also fortunate to work with [Prof. Kumar Muthuraman](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/kumar-muthuraman/), [Prof. Wei Qi](https://www.wei-qi.net/), and [Prof. Daniel Mitchell](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/daniel-mitchell/). 
-
-Previously, I received my bachelor’s degree in Information and Computing Science at [School of Mathematical Science](https://math.fudan.edu.cn/mathen/main.htm), [Fudan University](https://www.fudan.edu.cn/en/) and master's degree in [Industrial and System Engineering](https://cse.umn.edu/isye) and Statistics at University of Minnesota.
+I am a final-year PhD candidate in the Department of Information, Risk, and Operations Manangement at the McCombs School of Business at the University of Texas at Austin, advised by [Prof. Stathis Tompaidis](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/efstathios-tompaidis/) and [Prof. Junyu Cao](https://junyucao.com/). I am also fortunate to work with [Prof. Kumar Muthuraman](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/kumar-muthuraman/), [Prof. Wei Qi](https://www.wei-qi.net/), and [Prof. Daniel Mitchell](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/daniel-mitchell/). Previously, I received my master's degree at University of Minnesota and bachelor’s degree at Fudan University in Shanghai, China.
 
 Publications and Manuscripts
 ======
