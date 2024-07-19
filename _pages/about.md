@@ -32,3 +32,11 @@ Teaching
 BA 287 Business Analytics and Decision Modeling (MBA core course), Spring & Fall 2021, Fall 2022, Spring 2023<br/>
 BAX 358 Optimization Methods and Decision Making, Spring 2023<br/>
 DS 235 Introduction to Decision Science, Fall 2020, Spring 2022
+
+Awards
+======
+University Graduate Continuing Fellowship, _UT Austin_, 2024<br/>
+Graduate School Professional Development Award, _UT Austin_, 2023<br/>
+McCombs Dean's Fellowship, _UT Austin_, 2021 - 2023<br/>
+Graduate School Provost Fellowship, _UT Austin_, 2020<br/>
+Graduate School Recruitment Fellowship, _UT Austin_, 2020<br/>
