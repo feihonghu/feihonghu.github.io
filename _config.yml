@@ -24,9 +24,9 @@ author:
   avatar           : "headshot_FeihongHu_github.png"
   name             : "Feihong Hu"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate"
-  location         : "Austin, TX"
-  employer         : "University of Texas at Austin"
+  bio              : "PhD candidate at UT Austin"
+  location         : #"Austin, TX"
+  employer         : #"University of Texas at Austin"
   uri              : # URL
   email            : "Feihong.Hu@mccombs.utexas.edu" 
 
