@@ -27,7 +27,7 @@ Publications and Manuscripts
 Teaching
 ======
 **Instructor, McCombs School of Business, UT Austin**<br/>
-DS 235 Introduction to Decision Science, Summer 2024
+DS 235 Introduction to Decision Science, Summer 2024<br/>
 **Teaching Assistant, McCombs School of Business, UT Austin**<br/>
 BA 287 Business Analytics and Decision Modeling (MBA core course), Spring & Fall 2021, Fall 2022, Spring 2023<br/>
 BAX 358 Optimization Methods and Decision Making, Spring 2023<br/>
