@@ -16,7 +16,7 @@ Publications and Manuscripts
    _Operations Research_, Forthcoming.
 2. **“Uber” Your Cooking: The Sharing-Economy Operations of a Ghost-Kitchen Platform** [[pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4494858)<br/>
    with Junyu Cao and Wei Qi (alphabetical order)<br/>
-   Under review at _Management Science_.
+   To be resubmitted to _Management Science_.
 3. **Impact of Automated Vehicles on Traffic Assignment, Mode Split, and Parking Behavior** [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S136192092200030X)<br/>
    with Di Kang and Michael Levin<br/>
    _Transportation Research Part D: Transport and Environment_, Volume 104, 2022, 103200.<br/>
