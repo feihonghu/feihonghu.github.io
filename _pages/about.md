@@ -23,7 +23,7 @@ Publications and Manuscripts
 
 Work in Progress
 ======
-1. **Machine Learning in Portfolio Optimization**<br/>
+1. **Machine Learning in Asset Pricing**<br/>
    with Daniel Mitchell and Kumar Muthuraman<br/>
    In preparation.
 
