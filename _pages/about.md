@@ -25,12 +25,15 @@ Work in Progress
 ======
 1. **Machine Learning in Portfolio Optimization**<br/>
    with Daniel Mitchell and Kumar Muthuraman<br/>
-   Working paper.
+   In preparation.
 
 Teaching
 ======
 **Instructor, McCombs School of Business, UT Austin**<br/>
 DS 235 Introduction to Decision Science, Summer 2024<br/>
+-- _Undergraduate core course for the BBA program_<br/>
+-- _Student evaluation: 5.0/5.0_
+
 **Teaching Assistant, McCombs School of Business, UT Austin**<br/>
 BA 287 Business Analytics and Decision Modeling (MBA core course), Spring & Fall 2021, Fall 2022, Spring 2023<br/>
 BAX 358 Optimization Methods and Decision Making, Spring 2023<br/>
@@ -39,6 +42,7 @@ DS 235 Introduction to Decision Science, Fall 2020, Spring 2022
 Awards
 ======
 University Graduate Continuing Fellowship, _UT Austin_, 2024<br/>
+ -- _Prestigious fellowship: Department nominee and winner for research excellence_.<br/>
 Graduate School Professional Development Award, _UT Austin_, 2023<br/>
 McCombs Dean's Fellowship, _UT Austin_, 2021 - 2023<br/>
 Graduate School Provost Fellowship, _UT Austin_, 2020<br/>
