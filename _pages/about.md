@@ -47,3 +47,11 @@ Graduate School Professional Development Award, _UT Austin_, 2023<br/>
 McCombs Dean's Fellowship, _UT Austin_, 2021 - 2023<br/>
 Graduate School Provost Fellowship, _UT Austin_, 2020<br/>
 Graduate School Recruitment Fellowship, _UT Austin_, 2020<br/>
+
+Upcoming Talk at INFORMS 2024
+======
+**Talk**: “Uber” Your Cooking: The Sharing-Economy Operations of a Ghost-Kitchen Platform<br/>
+**Session**: Operations for the Future of Work<br/>
+**Date & Time**: October 21, 2:15 PM - 3:30 PM<br/>
+**Room**: Summit - 446
+
