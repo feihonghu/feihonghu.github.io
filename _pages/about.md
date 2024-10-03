@@ -9,6 +9,13 @@ redirect_from:
 
 I am a final-year PhD candidate in the Department of Information, Risk, and Operations Manangement at the McCombs School of Business at the University of Texas at Austin, advised by [Prof. Stathis Tompaidis](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/efstathios-tompaidis/) and [Prof. Junyu Cao](https://junyucao.com/). I am also fortunate to work with [Prof. Kumar Muthuraman](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/kumar-muthuraman/), [Prof. Wei Qi](https://www.wei-qi.net/), and [Prof. Daniel Mitchell](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/daniel-mitchell/). Previously, I received my master's degree at University of Minnesota and bachelor’s degree at Fudan University in Shanghai, China.
 
+Upcoming Talk at INFORMS 2024
+======
+**Talk**: “Uber” Your Cooking: The Sharing-Economy Operations of a Ghost-Kitchen Platform<br/>
+**Session**: Operations for the Future of Work<br/>
+**Date & Time**: October 21, 2:15 PM - 3:30 PM<br/>
+**Room**: Summit - 446<br/>
+
 Publications and Manuscripts
 ======
 1. **Robust Financial Networks** [[pdf]](https://pubsonline.informs.org/doi/10.1287/opre.2022.0272)<br/>
@@ -48,10 +55,4 @@ McCombs Dean's Fellowship, _UT Austin_, 2021 - 2023<br/>
 Graduate School Provost Fellowship, _UT Austin_, 2020<br/>
 Graduate School Recruitment Fellowship, _UT Austin_, 2020<br/>
 
-Upcoming Talk at INFORMS 2024
-======
-**Talk**: “Uber” Your Cooking: The Sharing-Economy Operations of a Ghost-Kitchen Platform<br/>
-**Session**: Operations for the Future of Work<br/>
-**Date & Time**: October 21, 2:15 PM - 3:30 PM<br/>
-**Room**: Summit - 446
 
