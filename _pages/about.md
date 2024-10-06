@@ -9,19 +9,20 @@ redirect_from:
 
 I am a final-year PhD candidate in the Department of Information, Risk, and Operations Manangement at the McCombs School of Business at the University of Texas at Austin, advised by [Prof. Stathis Tompaidis](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/efstathios-tompaidis/) and [Prof. Junyu Cao](https://junyucao.com/). I am also fortunate to work with [Prof. Kumar Muthuraman](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/kumar-muthuraman/), [Prof. Wei Qi](https://www.wei-qi.net/), and [Prof. Daniel Mitchell](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/daniel-mitchell/). Previously, I received my master's degree at University of Minnesota and bachelor’s degree at Fudan University in Shanghai, China.
 
-Upcoming Talk at INFORMS 2024
-======
+<h3>Upcoming Talk at INFORMS 2024</h3>
+
+I will be the last speaker in the following session:<br/>
 **Talk**: “Uber” Your Cooking: The Sharing-Economy Operations of a Ghost-Kitchen Platform<br/>
 **Session**: Operations for the Future of Work<br/>
 **Date & Time**: October 21, 2:15 PM - 3:30 PM<br/>
 **Room**: Summit - 446<br/>
 
-I will also present during<br/>
+I will also be presenting at the following session:<br/>
 **Date & Time**: October 22, 11:00 AM - 11:20 AM<br/>
 **Room**: Summit - Flex B, Level 2<br/>
 
-Publications and Manuscripts
-======
+<h3>Publications and Manuscripts</h3>
+
 1. **Robust Financial Networks** [[pdf]](https://pubsonline.informs.org/doi/10.1287/opre.2022.0272)<br/>
    Feihong Hu\*, Daniel Mitchell\*, Stathis Tompaidis\*<br/>
    _Operations Research_, Volume 72, Issue 5, 2024.
@@ -29,19 +30,19 @@ Publications and Manuscripts
    Junyu Cao\*, Feihong Hu\*, Wei Qi\*<br/>
    To be resubmitted to _Management Science_.
 3. **Impact of Automated Vehicles on Traffic Assignment, Mode Split, and Parking Behavior** [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S136192092200030X)<br/>
-   Di Kang, **Feihong Hu**, Michael Levin<br/>
+   Di Kang, Feihong Hu, Michael Levin<br/>
    _Transportation Research Part D: Transport and Environment_, Volume 104, 103200, 2022.<br/>
    
 \*Authors in alphabetical order.<br/>
 
-Work in Progress
-======
+<h3>Work in Progress</h3>
+
 1. **Machine Learning in Asset Pricing**<br/>
    with Daniel Mitchell and Kumar Muthuraman<br/>
    In preparation.
 
-Teaching
-======
+<h3>Teaching</h3>
+
 **Instructor, McCombs School of Business, UT Austin**<br/>
 DS 235 Introduction to Decision Science, Summer 2024<br/>
 -- _Undergraduate core course for the BBA program_<br/>
@@ -52,8 +53,8 @@ BA 287 Business Analytics and Decision Modeling (MBA core course), Spring & Fall
 BAX 358 Optimization Methods and Decision Making, Spring 2023<br/>
 DS 235 Introduction to Decision Science, Fall 2020, Spring 2022
 
-Awards
-======
+<h3>Awards</h3>
+
 University Graduate Continuing Fellowship, _UT Austin_, 2024<br/>
  -- _Prestigious fellowship: Department nominee and winner for research excellence_.<br/>
 Graduate School Professional Development Award, _UT Austin_, 2023<br/>
