@@ -16,23 +16,23 @@ Upcoming Talk at INFORMS 2024
 **Date & Time**: October 21, 2:15 PM - 3:30 PM<br/>
 **Room**: Summit - 446<br/>
 
-I will also present my job market paper during<br/>
+I will also present during<br/>
 **Date & Time**: October 22, 11:00 AM - 11:20 AM<br/>
 **Room**: Summit - Flex B, Level 2<br/>
 
 Publications and Manuscripts
 ======
-1. **Robust Financial Networks<sup>*</sup>** [[pdf]](https://pubsonline.informs.org/doi/10.1287/opre.2022.0272)<br/>
-   **Feihong Hu**, Daniel Mitchell, Stathis Tompaidis<br/>
+1. **Robust Financial Networks** [[pdf]](https://pubsonline.informs.org/doi/10.1287/opre.2022.0272)<br/>
+   Feihong Hu\*, Daniel Mitchell\*, Stathis Tompaidis\*<br/>
    _Operations Research_, Volume 72, Issue 5, 2024.
-2. **“Uber” Your Cooking: The Sharing-Economy Operations of a Ghost-Kitchen Platform<sup>*</sup>** [[pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4494858)<br/>
-   Junyu Cao, **Feihong Hu**, Wei Qi<br/>
+2. **“Uber” Your Cooking: The Sharing-Economy Operations of a Ghost-Kitchen Platform** [[pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4494858)<br/>
+   Junyu Cao\*, Feihong Hu\*, Wei Qi\*<br/>
    To be resubmitted to _Management Science_.
 3. **Impact of Automated Vehicles on Traffic Assignment, Mode Split, and Parking Behavior** [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S136192092200030X)<br/>
    Di Kang, **Feihong Hu**, Michael Levin<br/>
    _Transportation Research Part D: Transport and Environment_, Volume 104, 103200, 2022.<br/>
    
-<sup>*</sup>Authors in alphabetical order.<br/>
+\*Authors in alphabetical order.<br/>
 
 Work in Progress
 ======
