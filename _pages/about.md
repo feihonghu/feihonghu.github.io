@@ -17,7 +17,7 @@ I will be the last speaker in the following session:<br/>
 **Date & Time**: October 21, 2:15 PM - 3:30 PM<br/>
 **Room**: Summit - 446<br/>
 
-I will also be presenting at the following session:<br/>
+I will also be presenting at the following time:<br/>
 **Date & Time**: October 22, 11:00 AM - 11:20 AM<br/>
 **Room**: Summit - Flex B, Level 2<br/>
 
