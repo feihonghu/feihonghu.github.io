@@ -9,7 +9,7 @@ redirect_from:
 
 I am a final-year PhD candidate in the Department of Information, Risk, and Operations Manangement at the McCombs School of Business at the University of Texas at Austin, advised by [Prof. Stathis Tompaidis](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/efstathios-tompaidis/) and [Prof. Junyu Cao](https://junyucao.com/). I am also fortunate to work with [Prof. Kumar Muthuraman](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/kumar-muthuraman/), [Prof. Wei Qi](https://www.wei-qi.net/), and [Prof. Daniel Mitchell](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/daniel-mitchell/). Previously, I received my master's degree at University of Minnesota and bachelor’s degree at Fudan University in Shanghai, China.
 
-<h3>Upcoming Talk at INFORMS 2024</h3>
+<h2>Upcoming Talk at INFORMS 2024</h2>
 
 I will be the last speaker in the following session:<br/>
 **Talk**: “Uber” Your Cooking: The Sharing-Economy Operations of a Ghost-Kitchen Platform<br/>
@@ -21,7 +21,7 @@ I will also be presenting at the following session:<br/>
 **Date & Time**: October 22, 11:00 AM - 11:20 AM<br/>
 **Room**: Summit - Flex B, Level 2<br/>
 
-<h3>Publications and Manuscripts</h3>
+<h2>Publications and Manuscripts</h2>
 
 1. **Robust Financial Networks** [[pdf]](https://pubsonline.informs.org/doi/10.1287/opre.2022.0272)<br/>
    Feihong Hu\*, Daniel Mitchell\*, Stathis Tompaidis\*<br/>
@@ -35,13 +35,13 @@ I will also be presenting at the following session:<br/>
    
 \*Authors in alphabetical order.<br/>
 
-<h3>Work in Progress</h3>
+<h2>Work in Progress</h2>
 
 1. **Machine Learning in Asset Pricing**<br/>
    with Daniel Mitchell and Kumar Muthuraman<br/>
    In preparation.
 
-<h3>Teaching</h3>
+<h2>Teaching</h2>
 
 **Instructor, McCombs School of Business, UT Austin**<br/>
 DS 235 Introduction to Decision Science, Summer 2024<br/>
@@ -53,7 +53,7 @@ BA 287 Business Analytics and Decision Modeling (MBA core course), Spring & Fall
 BAX 358 Optimization Methods and Decision Making, Spring 2023<br/>
 DS 235 Introduction to Decision Science, Fall 2020, Spring 2022
 
-<h3>Awards</h3>
+<h2>Awards</h2>
 
 University Graduate Continuing Fellowship, _UT Austin_, 2024<br/>
  -- _Prestigious fellowship: Department nominee and winner for research excellence_.<br/>
