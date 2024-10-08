@@ -11,10 +11,10 @@ I am a final-year PhD candidate in the Department of Information, Risk, and Oper
 
 <h2>Upcoming Talk at 2024 INFORMS Annual Meeting</h2>
 
-I will be the last speaker in the following session:<br/>
+I will be the second speaker in the following session:<br/>
 **Talk**: “Uber” Your Cooking: The Sharing-Economy Operations of a Ghost-Kitchen Platform<br/>
 **Session**: Operations for the Future of Work<br/>
-**Date & Time**: October 21, 2:15 PM - 3:30 PM<br/>
+**Date & Time**: October 21, 2:30 PM - 2:45 PM<br/>
 **Room**: Summit - 446<br/>
 
 I will also be presenting at the following time:<br/>
