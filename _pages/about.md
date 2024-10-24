@@ -9,18 +9,6 @@ redirect_from:
 
 I am a final-year PhD candidate in the Department of Information, Risk, and Operations Manangement at the McCombs School of Business at the University of Texas at Austin, advised by [Prof. Stathis Tompaidis](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/efstathios-tompaidis/) and [Prof. Junyu Cao](https://junyucao.com/). I am also fortunate to work with [Prof. Kumar Muthuraman](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/kumar-muthuraman/), [Prof. Wei Qi](https://www.wei-qi.net/), and [Prof. Daniel Mitchell](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/daniel-mitchell/). Previously, I received my master's degree at University of Minnesota and bachelor’s degree at Fudan University in Shanghai, China.
 
-<h2>Upcoming Talk at 2024 INFORMS Annual Meeting</h2>
-
-I will be the second speaker in the following session:<br/>
-**Talk**: “Uber” Your Cooking: The Sharing-Economy Operations of a Ghost-Kitchen Platform<br/>
-**Session**: Operations for the Future of Work<br/>
-**Date & Time**: October 21, 2:30 PM - 2:45 PM<br/>
-**Room**: Summit - 446<br/>
-
-I will also be presenting at the following time:<br/>
-**Date & Time**: October 22, 11:00 AM - 11:20 AM<br/>
-**Room**: Summit - Flex B, Level 2<br/>
-
 <h2>Publications and Manuscripts</h2>
 
 1. **Robust Financial Networks** [[pdf]](https://pubsonline.informs.org/doi/10.1287/opre.2022.0272)<br/>
