@@ -41,6 +41,12 @@ BA 287 Business Analytics and Decision Modeling (MBA core course), Spring & Fall
 BAX 358 Optimization Methods and Decision Making, Spring 2023<br/>
 DS 235 Introduction to Decision Science, Fall 2020, Spring 2022
 
+<h2>Industry Experience</h2>
+
+**Meta Platforms, Inc**.<br/>
+PhD Machine Learning Intern, Ads Core Machine Learning Group, Summer 2023<br/>
+PhD Machine Learning Intern, Ads Core Machine Learning Group, Summer 2024
+
 <h2>Awards</h2>
 
 University Graduate Continuing Fellowship, _UT Austin_, 2024<br/>
