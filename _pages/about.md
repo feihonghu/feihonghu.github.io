@@ -44,8 +44,8 @@ DS 235 Introduction to Decision Science, Fall 2020, Spring 2022
 <h2>Industry Experience</h2>
 
 **Meta Platforms, Inc**.<br/>
-PhD Machine Learning Intern, Ads Core Machine Learning Group, Summer 2022<br/>
-PhD Machine Learning Intern, Ads Core Machine Learning Group, Summer 2023
+PhD Machine Learning Intern, Ads Core Machine Learning Group, Summer 2023<br/>
+PhD Machine Learning Intern, Ads Core Machine Learning Group, Summer 2022
 
 <h2>Awards</h2>
 
