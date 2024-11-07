@@ -9,6 +9,12 @@ redirect_from:
 
 I am a final-year PhD candidate in the Department of Information, Risk, and Operations Manangement at the McCombs School of Business at the University of Texas at Austin, advised by [Prof. Stathis Tompaidis](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/efstathios-tompaidis/) and [Prof. Junyu Cao](https://junyucao.com/). I am also fortunate to work with [Prof. Kumar Muthuraman](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/kumar-muthuraman/), [Prof. Wei Qi](https://www.wei-qi.net/), and [Prof. Daniel Mitchell](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/daniel-mitchell/). I worked as a machine learning intern at Meta Platforms, Inc. during the summers of 2022 and 2023. Previously, I received my master's degree at University of Minnesota and bachelor’s degree at Fudan University in Shanghai, China.
 
+<h2>Industry Experience</h2>
+
+**Meta Platforms, Inc**.<br/>
+PhD Machine Learning Intern, Ads Core Machine Learning Group, Summer 2023<br/>
+PhD Machine Learning Intern, Ads Core Machine Learning Group, Summer 2022
+
 <h2>Publications and Manuscripts</h2>
 
 1. **Robust Financial Networks** [[pdf]](https://pubsonline.informs.org/doi/10.1287/opre.2022.0272)<br/>
@@ -40,12 +46,6 @@ DS 235 Introduction to Decision Science, Summer 2024<br/>
 BA 287 Business Analytics and Decision Modeling (MBA core course), Spring & Fall 2021, Fall 2022, Spring 2023<br/>
 BAX 358 Optimization Methods and Decision Making, Spring 2023<br/>
 DS 235 Introduction to Decision Science, Fall 2020, Spring 2022
-
-<h2>Industry Experience</h2>
-
-**Meta Platforms, Inc**.<br/>
-PhD Machine Learning Intern, Ads Core Machine Learning Group, Summer 2023<br/>
-PhD Machine Learning Intern, Ads Core Machine Learning Group, Summer 2022
 
 <h2>Awards</h2>
 
