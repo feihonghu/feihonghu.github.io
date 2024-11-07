@@ -29,7 +29,7 @@ I am a final-year PhD candidate in the Department of Information, Risk, and Oper
    with Daniel Mitchell and Kumar Muthuraman<br/>
    In preparation.
 
-<h2>Industry Experience</h2>
+<h2>Work Experience</h2>
 
 **Meta Platforms, Inc**.<br/>
 PhD Machine Learning Intern, Ads Core Machine Learning Group, Summer 2023<br/>
