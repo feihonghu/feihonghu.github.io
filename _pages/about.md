@@ -25,9 +25,15 @@ I am a final-year PhD candidate in the Department of Information, Risk, and Oper
 
 <h2>Work in Progress</h2>
 
-1. **Machine Learning in Asset Pricing**<br/>
+1. **Novel Neural Network Architectures for Asset Pricing: Bridging Theory and Interpretability**<br/>
    with Daniel Mitchell and Kumar Muthuraman<br/>
    In preparation.
+
+2. **Fresh on the Go: Combatting Food Deserts with Mobile Markets**<br/>
+   with Junyu Cao<br/>
+
+3. **Unsupervised Regression Plane Discovery Using Machine Learning: An Application to King County House Sale Data**<br/>
+   with Deepayan Chakrabarti, Daniel Mitchell, and Kumar Muthuraman
 
 <h2>Work Experience</h2>
 
