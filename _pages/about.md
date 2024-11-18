@@ -56,7 +56,7 @@ DS 235 Introduction to Decision Science, Fall 2020, Spring 2022
 <h2>Awards</h2>
 
 University Graduate Continuing Fellowship, _UT Austin_, 2024<br/>
- -- _Prestigious fellowship: Department nominee and winner for research excellence_.<br/>
+ -- _Prestigious fellowship with tuition waiver: Department nominee and winner for research excellence_.<br/>
 Graduate School Professional Development Award, _UT Austin_, 2023<br/>
 McCombs Dean's Fellowship, _UT Austin_, 2021 - 2023<br/>
 Graduate School Provost Fellowship, _UT Austin_, 2020<br/>
