@@ -28,10 +28,8 @@ I am a final-year PhD candidate in the Department of Information, Risk, and Oper
 1. **Novel Neural Network Architectures for Asset Pricing: Bridging Theory and Interpretability**<br/>
    with Daniel Mitchell and Kumar Muthuraman<br/>
    In preparation.
-
 2. **Fresh on the Go: Combatting Food Deserts with Mobile Markets**<br/>
    with Junyu Cao<br/>
-
 3. **Unsupervised Regression Plane Discovery Using Machine Learning: An Application to King County House Sale Data**<br/>
    with Deepayan Chakrabarti, Daniel Mitchell, and Kumar Muthuraman
 
@@ -56,7 +54,7 @@ DS 235 Introduction to Decision Science, Fall 2020, Spring 2022
 <h2>Awards</h2>
 
 University Graduate Continuing Fellowship, _UT Austin_, 2024<br/>
- -- _Prestigious fellowship with tuition waiver: Department nominee and winner for research excellence_.<br/>
+ -- _Prestigious fellowship with an additional tuition waiver: awarded for research excellence_.<br/>
 Graduate School Professional Development Award, _UT Austin_, 2023<br/>
 McCombs Dean's Fellowship, _UT Austin_, 2021 - 2023<br/>
 Graduate School Provost Fellowship, _UT Austin_, 2020<br/>
