@@ -25,7 +25,7 @@ I am a final-year PhD candidate in the Department of Information, Risk, and Oper
 
 <h2>Work in Progress</h2>
 
-1. **Novel Neural Network Architectures for Asset Pricing: Bridging Theory and Interpretability**<br/>
+1. **Neural Network Architectures for Asset Pricing: Bridging Theory and Interpretability**<br/>
    with Daniel Mitchell and Kumar Muthuraman<br/>
    In preparation.
 2. **Fresh on the Go: Combatting Food Deserts with Mobile Markets**<br/>
